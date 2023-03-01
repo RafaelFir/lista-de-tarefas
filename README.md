@@ -14,7 +14,7 @@ listas de tarefas, que somente o próprio usuário pode visualizá-las e editá-
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone este repositório: `git clone https://github.com/RafaelFir/lista-de-tarefas.git`
 2. Entre no diretório do projeto: `cd seu-projeto`
 3. Instale as dependências: `npm install`
 4. Execute o projeto: `npm run dev`
@@ -41,4 +41,4 @@ Para usar a API, envie solicitações HTTP para esses endpoints usando um client
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato comigo através do meu perfil no GitHub: [@seu-usuario](https://github.com/seu-usuario).
+Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato comigo através do meu perfil no GitHub: [@RafaelFir](https://github.com/RafaelFir).
