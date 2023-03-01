@@ -25,6 +25,9 @@ Para usar a API, basta enviar solicitações HTTP para os endpoints disponíveis
 
 ### Endpoints
 
+![Projeto to do list](https://user-images.githubusercontent.com/104832906/222219684-033d6bbf-cdd6-4299-bdc2-10bba1f9294f.png)
+
+
 Aqui estão os endpoints disponíveis na API:
 
 - `POST /usuario`: Cria um novo usuário com base nos dados fornecidos no corpo da solicitação.
